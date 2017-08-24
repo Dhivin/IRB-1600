@@ -1,0 +1,6 @@
+<package>
+  <description brief="IRB 1600 10kg 1.45m">IRB 1600 10kg 1.45m</description>
+  <depend package="gazebo" />
+  <author>me</author>
+  <license>BSD</license>
+</package>
